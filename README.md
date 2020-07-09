@@ -1,2 +1,2 @@
 # LetsUpgrade-AI-ML
-Assignments and Projects from the AI and ML course.
+Artificial Intelligence 🧠 and Machine Learning 📉 projects and assignments from the LetsUpgrade course. 
